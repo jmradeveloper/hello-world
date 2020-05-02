@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+im just traying this stuff
+    im jmra
